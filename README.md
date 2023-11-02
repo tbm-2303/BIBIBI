@@ -24,7 +24,7 @@ This project aims to identify countries with extreme challenges in critical area
 4. Access to basic necessities
 5. Population trends
 
-# Research question:
+## Research question:
 Can we use clustering algoritmes to group countries based on relevant socio-economic factors, health factors and other important metrics, in order to identify countries with extreme challenges in human development.
 
 
